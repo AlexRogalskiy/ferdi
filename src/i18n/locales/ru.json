@@ -8,7 +8,7 @@
   "changeserver.warning": "Дополнительные настройки, предлагаемые Ферди, не будут сохранены",
   "connectionLostBanner.cta": "Перезапустить сервис",
   "connectionLostBanner.informationLink": "Что случилось?",
-  "connectionLostBanner.message": "Упс! Ферди потерял связь с {name}.",
+  "connectionLostBanner.message": "О нет! Ferdi потерял связь с {name}.",
   "feature.basicAuth.signIn": "Войти",
   "feature.publishDebugInfo.error": "При попытке опубликовать отладочную информацию произошла ошибка. Пожалуйста, повторите попытку позже или просмотрите консоль для получения дополнительной информации.",
   "feature.publishDebugInfo.info": "Публикация вашей отладочной информации помогает нам найти проблемы и ошибки в Ferdi. Публикуя вашу отладочную информацию, вы принимаете политику конфиденциальности Ferdi Debugger'ов и условия предоставления услуг",
